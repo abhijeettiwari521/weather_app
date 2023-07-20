@@ -8,7 +8,6 @@ import 'package:weather_app/widgets/daily_data_forecast.dart';
 import 'package:weather_app/widgets/header_widget.dart';
 import 'package:weather_app/widgets/hourly_data_widget.dart';
 
-//ok  to use
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
 
